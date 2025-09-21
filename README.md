@@ -6,25 +6,16 @@ Features
 Foodie website includes:
 
 A fully responsive navigation bar for easy access to different sections of the website.
-
 A header section with engaging visuals and concise content.
-
 A burger section showcasing menu items with structured layouts.
-
 Text content styled for readability and professional presentation.
-
 Clean and minimal design emphasizing user experience.
 
 Technologies Used
-
 HTML5 for structuring the web pages.
-
 CSS3 for styling, layout, and responsive design.
 
-Usage
 
-To view the website locally:
+To view the website :
+TAP HERE:https://rahulk1213.github.io/foodie-website/
 
-Clone the repository:
-
-git clone <repository-url>
